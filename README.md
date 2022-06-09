@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  HONEY MILONGTON   Currently Studying In IIT Madras Speclization With Computer Science And Engerning 
+- 👋 Hi, I’m  HONEY MILONGTON  Currently Studying In IIT Madras Speclization With Computer Science And Engerning 
 - @honey-python-world
 - 👀 I’m interested in DATA SCIENCE and ARTIFICAL INTELIGENCE 
 - 🌱 I’m currently learning ... MACHINE LEARNING, DEEP LEARNING And ARITFICAL INTELIGENCE
