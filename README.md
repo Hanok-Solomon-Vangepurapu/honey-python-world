@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Hanok Solomon Vangepurapu Currently Studying In IIT Madras Speclization With Computer Science And Engerning 
-- @honey-python-world
+- @Hanok-Solomon-Vangepurapu
 - 👀 I’m interested in DATA SCIENCE and ARTIFICAL INTELIGENCE 
 - 🌱 I’m currently learning ... MACHINE LEARNING, DEEP LEARNING And ARITFICAL INTELIGENCE
 - 💞️ I’m looking to collaborate on MACHINE LEARNING and BIG DATA CONCEPTS
